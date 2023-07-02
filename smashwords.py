@@ -6,4 +6,7 @@ def smash(words):
         else:
             result += words[i] + " "
     return result
+
+
+#return ''.join
     
